@@ -29,7 +29,7 @@ def escape_html(word):
 PM_START_TEXT = """
 Hey *{}*  , My Name Is *MrXnomousRobot*  - I'm Here To Help You Manage Your Groups . Hit /help To Find Out More About How To Use My Full Potential Use!
 
-Made With Love  And Maintained By This Awesome Person .
+Made With Love  And Maintained By [This Awesome Person](https://t.me/MrXnomous)  .
 
 Special Thanks To [This Noob](https://t.me/Unknown_Hacker_X) . 
 
